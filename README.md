@@ -5,7 +5,7 @@
   <br>
   <a href="https://github.com/yasinatesim/basic-starter-kit"><img src="https://yasinates.com/tech/gulp.svg" alt="Basic Starter Kit" width="200"></a>
   <br>
-  Gulp Starter Kit
+  Basic Starter Kit
   <br>
 </h3>
 
@@ -17,7 +17,7 @@
 
 ## 📖 About
 
-  <img width="500" src="https://yasinates.com/basic-starter-kit.png">
+  <img width="500" src="https://yasinates.com/basic-starter-kit.jpg">
 
 This project is a starter kit for develop the very small front-end web applications with Gulp 😋
 
