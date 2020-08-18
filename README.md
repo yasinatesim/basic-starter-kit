@@ -113,7 +113,7 @@ git clone https://github.com/yasinatesim/basic-starter-kit.git
 npm install
 
 ```
-
+3. Develop awesome things
 
 ```bash
 
